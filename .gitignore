@@ -1,0 +1,6 @@
+# build output
+*.exe
+*.pdb
+dist/
+# per-machine board layout files written by the app
+layouts/
