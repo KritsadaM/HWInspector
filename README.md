@@ -59,3 +59,7 @@ move CHIPSET 180 235     # move a part to x,y in mm (anything sitting on it move
 
 - Temperatures, voltages, and fan RPM aren't shown. They need a kernel-level sensor driver, which WMI doesn't provide.
 - Windows doesn't report which physical USB port a device is plugged into.
+
+## License
+
+[MIT](LICENSE)
